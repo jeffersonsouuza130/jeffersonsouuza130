@@ -1,11 +1,6 @@
-## Opa, bem vindo(a). Esse é meu perfil, me chamo Jefferson Souza.
-
-- 🏫 UFPB Campus-IV
-- 📚 Sistemas de Informação
-
-<div>
-  <a href="https://github.com/jeffersonsouuza130">
-    <img height="180em" src="https://github-readme-stats.vercel.app""")/>>
-    <img height="180em" src="https://github-readme-stats.vercel.app""")/>>
-  </a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeffersonsouuza130/jeffersonsouuza130/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeffersonsouuza130/jeffersonsouuza130/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jeffersonsouuza130/jeffersonsouuza130/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
