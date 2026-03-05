@@ -7,7 +7,7 @@
 
   <br><br>
 
-  <h3>🛸 Minha Stack</h3>
+  <h3>🛸 My Stack</h3>
   <img src="https://skillicons.dev/icons?i=java,python&theme=dark" height="75px" />
 
 
@@ -15,7 +15,7 @@
   <hr width="50%">
   <br>
 
-  <h3>✉️ Chama aí:</h3>
+  <h3>✉️ Call me:</h3>
   
   <a href="mailto:souza130j@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
