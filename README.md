@@ -1,6 +1,7 @@
 
   <h3> 👨‍💻 Jefferson Souza</h3>
-  Atualmente, cursando Sistemas de Informação na UFPB (Campus IV), onde busco solidificar minha base teórica e prática em tecnologia. Com foco total no aprendizado contínuo, dedico meus estudos ao ecossistema Python e à robustez do Java, sempre com o objetivo de criar soluções eficientes e inovadoras. Sempre invando e buscando novas tecnólogias e linguagens.
+  Just a guy hows love technology and program open minded, nowadays i'm studying at the UFPB Campus IV, studyn Sistem of information. Always searching knowledge at the area TI and improving the english and a lot of things. I'm from a little city at the interior of the PB - Brazil. I'm always open-minded to do what i can and if i don't can do, i learn.
+  <h3>"It Is the Mark of an Educated Mind to Be Able to Entertain a Thought Without Accepting It." - Aristotles</h3>
 
   </div>
 
