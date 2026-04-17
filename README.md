@@ -8,7 +8,7 @@
   <br><br>
 
   <h3>🛸 My Stack</h3>
-  <img src="https://skillicons.dev/icons?i=java,python&theme=dark" height="75px" />
+  <img src="https://skillicons.dev/icons?i=java,python,lua&theme=dark" height="75px" />
 
 
   <br><br>
