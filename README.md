@@ -1,6 +1,6 @@
 <h3> 👨‍💻 Jefferson Souza</h3>
 
-Just a guy who loves technology and programming, open-minded and always searching for knowledge. Nowadays I'm studying at UFPB Campus IV, majoring in Information Systems. I'm constantly improving my skills in IT, English, and many other areas. I'm from a small city in the countryside of Paraíba - Brazil. I'm always open-minded to do what I can, and if I can't do it yet, I learn.
+Just a guy who loves technology and programming, open-minded and always searching for knowledge. Nowadays I'm studying at UFPB Campus IV, graduating in Information Systems. I'm constantly improving my skills in IT, English, and many other areas. I'm from a small city in the countryside of Paraíba - Brazil. I'm always open-minded to do what I can, and if I can't do it yet, I learn.
 
 <h3>"It Is the Mark of an Educated Mind to Be Able to Entertain a Thought Without Accepting It." - Aristotle</h3>
 
